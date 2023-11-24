@@ -1,0 +1,34 @@
+.item-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.icone-remover {
+    color: #c0c0c0;
+    z-index: 1;
+    scale: 1.8;
+    cursor: pointer;
+}
+
+.item-container img {
+    width: 262px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.item-container span {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8px;
+    font-size: 1.25rem;
+    color: #f4f4f4;
+    left: 0;
+    text-align: center;
+    background-color: rgba(39, 39, 39, 0.8);
+    width: 100%;
+    border-radius: 8px;
+}

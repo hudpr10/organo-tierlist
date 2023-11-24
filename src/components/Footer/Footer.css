@@ -1,0 +1,12 @@
+.rodape {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #1C3887;
+    padding: 64px 0;
+}
+
+.rodape span {
+    font-size: 1.25rem;
+    color: #f4f4f4;
+}

@@ -1,0 +1,27 @@
+.dropdown {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.dropdown label {
+    font-size: 1.5rem;
+    color: #f4f4f4;
+    font-weight: 700;
+}
+
+.dropdown select {
+    padding: 16px 10px;
+    font-size: 1rem;
+    border-radius: 8px;
+    background-color: transparent;
+    border: 2px solid #f4f4f4;
+    color: #f4f4f4;
+    transition: 200ms;
+    outline: none;
+}
+
+.dropdown select:hover, .dropdown select:focus {
+    background-color: #f4f4f4;
+    color: #1C3887;
+}

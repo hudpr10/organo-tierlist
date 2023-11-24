@@ -1,0 +1,22 @@
+.button-container {
+    display: flex;
+    align-items: center;
+    background-color: #f4f4f4;
+    border: none;
+    font-size: 1rem;
+    width: min-content;
+    padding: 16px 24px;
+    gap: 12px;
+    border-radius: 8px;
+    color: #1C3887;
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.button-container:hover {
+    background-color: #c0c0c0;
+}
+
+.icone-adicionar {
+    scale: 1.4;
+}

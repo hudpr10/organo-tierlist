@@ -1,0 +1,55 @@
+{
+    "itensIniciasTeste": [
+        {
+            "nome": "Pão de Queijo",
+            "imagem": "https://vovopalmirinha.com.br/wp-content/uploads/2019/06/pao-de-queijo.jpg",
+            "categoria": "Rank S"
+        },
+        {
+            "nome": "Pão de Queijo",
+            "imagem": "https://vovopalmirinha.com.br/wp-content/uploads/2019/06/pao-de-queijo.jpg",
+            "categoria": "Rank A"
+            
+        },
+        {
+            "nome": "Pão de Queijo",
+            "imagem": "https://vovopalmirinha.com.br/wp-content/uploads/2019/06/pao-de-queijo.jpg",
+            "categoria": "Rank B"
+        },
+        {
+            "nome": "Pão de Queijo",
+            "imagem": "https://vovopalmirinha.com.br/wp-content/uploads/2019/06/pao-de-queijo.jpg",
+            "categoria": "Rank C"
+        },
+        {
+            "nome": "Pão de Queijo",
+            "imagem": "https://vovopalmirinha.com.br/wp-content/uploads/2019/06/pao-de-queijo.jpg",
+            "categoria": "Rank D"
+        },
+        {
+            "nome": "Macarrão",
+            "imagem": "https://todeschinialimentos.com.br/images/receitas/32/todeschini-imagem-receitas-macarrao-com-calabresa-share.jpg",
+            "categoria": "Rank S"
+        },
+        {
+            "nome": "Macarrão",
+            "imagem": "https://todeschinialimentos.com.br/images/receitas/32/todeschini-imagem-receitas-macarrao-com-calabresa-share.jpg",
+            "categoria": "Rank A"
+        },
+        {
+            "nome": "Macarrão",
+            "imagem": "https://todeschinialimentos.com.br/images/receitas/32/todeschini-imagem-receitas-macarrao-com-calabresa-share.jpg",
+            "categoria": "Rank B"
+        },
+        {
+            "nome": "Macarrão",
+            "imagem": "https://todeschinialimentos.com.br/images/receitas/32/todeschini-imagem-receitas-macarrao-com-calabresa-share.jpg",
+            "categoria": "Rank C"
+        },
+        {
+            "nome": "Macarrão",
+            "imagem": "https://todeschinialimentos.com.br/images/receitas/32/todeschini-imagem-receitas-macarrao-com-calabresa-share.jpg",
+            "categoria": "Rank D"
+        }
+    ]
+}

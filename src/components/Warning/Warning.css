@@ -1,0 +1,10 @@
+.sessao-aviso {
+    text-align: center;
+    background-color: rgba(29, 29, 29, 0.5);
+}
+
+.sessao-aviso h2 {
+    padding: 64px 0;
+    color: #f4f4f4;
+    margin: 0;
+}

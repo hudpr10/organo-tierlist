@@ -1,0 +1,44 @@
+.formulario-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 140px 60px 140px;
+    padding: 32px;
+    background-color: #1c3887;
+    box-shadow: 8px 8px 32px 0 rgba(0, 0, 0, 0.08);
+    border-radius: 16px;
+}
+
+.botoes-topo__container {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+.formulario-container h2 {
+    font-size: 2.25rem;
+    margin: 0 0 16px 0;
+    color: #f4f4f4;
+}
+
+.formulario-container form {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.botao-pagina {
+    background-color: transparent;
+    border: none;
+    color: #f4f4f4;
+    font-size: 1.25rem;
+    cursor: pointer;
+    transition: 200ms;
+}
+
+.botao-ativo {
+    border-bottom: #f4f4f4 2px solid;
+}
+
+.botao-pagina:hover {
+    background-color: #00000066;
+}

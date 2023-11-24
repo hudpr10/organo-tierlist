@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@400;700&display=swap');
+
+.input {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-family: 'Palanquin Dark', sans-serif;
+}
+
+.input label {
+    font-size: 1.5rem;
+    color: #f4f4f4;
+    font-weight: 700;
+}
+
+.input input {
+    font-size: 1rem;
+    padding: 16px 10px;
+    background-color: transparent;
+    border: 2px solid #f4f4f4;
+    color: #f4f4f4;
+    outline: none;
+    font-family: 'Palanquin Dark', sans-serif;
+    border-radius: 8px;
+    transition: 200ms;
+}
+
+.input input:hover, .input input:focus {
+    background-color: #f4f4f4;
+    color: #1C3887;
+}
+
+.input input[type='color'] {
+    padding: 0;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+.tier {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 32px 0;
+    position: relative;
+}
+
+.tier h3 {
+    font-size: 2rem;
+    color: #f4f4f4;
+    margin: 0;
+}
+
+.tier-detail {
+    width: 40px;
+    height: 8px;
+    border-radius: 8px;
+}
+
+.tier-card-container {
+    display: flex;
+    gap: 16px;
+    margin-top: 24px;
+}
+
+.input-cor {
+    position: absolute;
+    right: 32px;
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
