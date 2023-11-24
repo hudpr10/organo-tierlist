@@ -2,7 +2,7 @@ import Banner from './components/Banner';
 import './App.css';
 import Form from './components/Form';
 import Section from './components/Section/index';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import Warning from './components/Warning';
 import Footer from './components/Footer';
 import { v4 as uuidv4 } from 'uuid';
