@@ -1,7 +1,0 @@
-  useEffect(() => {
-    fetch('http://localhost:8080/itensIniciasTeste')
-      .then(conexao => conexao.json())
-      .then(resposta => {
-        setListaRespostas(resposta.map(cadaItem => ({...cadaItem, id: uuidv4()})))
-      })
-  }, [])
